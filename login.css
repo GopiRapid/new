@@ -1,0 +1,22 @@
+#contact{
+    height: 500px;
+    width: 99%;
+
+    border:5px solid black;
+    position: relative;
+    background-color: burlywood;
+
+}
+
+#box1{
+    border: 5px solid blue;
+width: 250px;
+height: 200px;
+position: absolute;
+left: 50%;
+top: 50%;
+transform: translate(-50%,-50%);
+background-color: chartreuse;
+text-align: center;
+
+}
